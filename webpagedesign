@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taylor Honeycutt - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Taylor Honeycutt</h1>
+        <p>Computer Science | Mathematics | Technical Writer</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a Computer Science major with a Mathematics minor at the University of Alabama in Huntsville, passionate about software development, problem-solving, and technical writing.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Here are some of my projects and technical writing samples:</p>
+        <ul>
+            <li><a href="#">Project 1: [Insert Project Name]</a></li>
+            <li><a href="#">Project 2: [Insert Project Name]</a></li>
+            <li><a href="#">Essay: [Insert Writing Sample]</a></li>
+        </ul>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p><a href="resume.pdf" download>Download My Resume (PDF)</a></p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:TFH0006@uah.edu">TFH0006@uah.edu</a></p>
+        <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+    </section>
+
+    <footer>
+        <p>© 2024 Taylor Honeycutt</p>
+    </footer>
+</body>
+</html>
